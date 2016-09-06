@@ -4,7 +4,7 @@
 #Run from within new project directory.
 
 touch README.md
-touch run_directory.sh
+echo '#!/bin/bash' > run_directory.sh
 for i in build analysis; do
 	for j in input output temp code; do
 		mkdir -p ./$i/$j
