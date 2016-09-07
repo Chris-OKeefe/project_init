@@ -1,4 +1,4 @@
-#Data Project Initiator Script
+#Initialize Data Project Script
 
 This script creates the following subdirectories within a (new) project directory.
 * /build/input
