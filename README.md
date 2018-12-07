@@ -17,4 +17,4 @@ This is in line with the recommendations made by Matthew Gentzkow and Jess Shapi
 Gentzkow, Matthew and Jesse M. Shapiro. 2014. Code and Data for the Social Sciences: A Practitioner's Guide. University of Chicago mimeo, http://faculty.chicagobooth.edu/matthew.gentzkow/research/CodeAndData.pdf.
 
 ## Skills
-* Simple python scripting
+* Simple BASH scripting
